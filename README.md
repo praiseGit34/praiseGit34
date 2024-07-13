@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praiseGit34
-- 👀 I’m interested in frontend and machine learning 
-- 🌱 I’m currently learning frontend
+- 👀
+- 🌱
 - willing to learn everyday
 
 <!---
