@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @praiseGit34
-- 👀
-- 🌱
-- willing to learn everyday
+passionate about learning every single day || boasting my skills and growing in the tech world
 
 <!---
 praiseGit34/praiseGit34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
